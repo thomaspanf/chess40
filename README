@@ -23,7 +23,7 @@ Implemented:
 To Implement: 
 -  bugs :) 
 
-To compile javadoc:    javadoc -d JavaDocs src -tag Version:X -tag Since:X
+To compile javadoc:    javadoc -d docs src -tag Version:X -tag Since:X
 
 /loop through every tile
 for each tile with enemy piece
